@@ -1,6 +1,6 @@
 # EXNO2DS
-# NAME : DAPPILI VASAVI
-# REGISTER NUMBER : 212223040030
+## NAME : DAPPILI VASAVI
+## REGISTER NUMBER : 212223040030
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
