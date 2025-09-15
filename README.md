@@ -46,7 +46,6 @@ df.describe()
 
 ```
 df.dtypes
-```
 <img width="235" height="285" alt="image" src="https://github.com/user-attachments/assets/08101d3d-ea0e-45d0-9cf6-70598f3ed7d2" />
 
 ```
